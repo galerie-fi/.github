@@ -91,7 +91,7 @@ Galerie is built on the **Flow blockchain** — a performant, scalable, and deve
 
 <p align="center">
   <img src="../assets/logo_flow.png" alt="Flow" height="44" style="vertical-align:middle; margin-right:24px;" />
-  <img src="../assets/logo_privy.png" alt="Privy" height="50" style="vertical-align:middle;" />
+  <img src="../assets/logo_privy.png" alt="Privy" height="44" style="vertical-align:middle;" />
 </p>
 
 ---
